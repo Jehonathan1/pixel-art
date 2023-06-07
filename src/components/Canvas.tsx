@@ -159,6 +159,17 @@ const Canvas: React.FC = () => {
             justify-content: flex-end;
             margin-top: 20px;
           }
+
+          @media (max-width: 600px) {
+            .canvas-container {
+              padding: 10px;
+            }
+          
+            .square {
+              width: 30px;
+              height: 30px;
+            }
+          }
         `}
 			</style>
 		</div>
