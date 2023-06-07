@@ -9,4 +9,6 @@ function App() {
 	);
 }
 
+<style></style>;
+
 export default App;
