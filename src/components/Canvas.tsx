@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import { ChromePicker } from "react-color";
 
 const Canvas: React.FC = () => {
