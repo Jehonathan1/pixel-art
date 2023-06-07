@@ -28,4 +28,4 @@ We welcome contributions from the pixel art community! If you have ideas for new
 
 Get ready to have a blast creating pixel art like never before. Pixel Party Canvas is here to bring joy, laughter, and funky colors to your creative journey. So, grab your favorite beverage, put on some funky tunes, and let the pixel party begin! 🎨🎉
 
-P.S. In case of any pixel-related emergencies, please contact our 24/7 Pixel Support Hotline. Our team of pixel experts is always here to assist you. No pixel-related problem is too big or too small!
+P.S. In case of any pixel-related emergencies, please contact our 24/7 Pixel Support Hotline. Our team of pixel experts is always here to assist you. No pixel-related problem is too big or too small!!
